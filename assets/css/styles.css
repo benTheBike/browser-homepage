@@ -1,0 +1,22 @@
+html, body {
+    margin: 5px;
+    color: black;
+    background-color: white;
+    line-height: 1.4;
+    font-family: "Arial", sans-serif;
+}
+
+#container-base {
+    display: none;
+}
+
+a {
+    color: blue;
+    font-family: monospace;    
+    padding: 4px;
+}
+
+a:hover {
+    color: white;
+    background-color: blue;
+}
